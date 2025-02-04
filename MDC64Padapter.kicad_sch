@@ -7271,7 +7271,6 @@
 	)
 	(label "MD_UP"
 		(at 248.92 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7282,7 +7281,6 @@
 	)
 	(label "C64_POTY"
 		(at 21.59 63.5 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7293,7 +7291,6 @@
 	)
 	(label "MD_DOWN"
 		(at 233.68 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7304,7 +7301,6 @@
 	)
 	(label "C64_B"
 		(at 81.28 30.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7315,7 +7311,6 @@
 	)
 	(label "C64_B"
 		(at 128.27 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7326,7 +7321,6 @@
 	)
 	(label "C64_RIGHT"
 		(at 195.58 25.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7337,7 +7331,6 @@
 	)
 	(label "MD_LEFT_M"
 		(at 248.92 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7348,7 +7341,6 @@
 	)
 	(label "MD_C{slash}~{ST}"
 		(at 248.92 24.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7359,7 +7351,6 @@
 	)
 	(label "MD_B"
 		(at 95.25 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7370,7 +7361,6 @@
 	)
 	(label "C64_B"
 		(at 144.78 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7381,7 +7371,6 @@
 	)
 	(label "MD_C{slash}~{ST}"
 		(at 30.48 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7392,7 +7381,6 @@
 	)
 	(label "MD_START"
 		(at 180.34 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7403,7 +7391,6 @@
 	)
 	(label "CLK"
 		(at 248.92 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7414,7 +7401,6 @@
 	)
 	(label "MD_C{slash}~{ST}"
 		(at 115.57 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7425,7 +7411,6 @@
 	)
 	(label "MD_START"
 		(at 72.39 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7436,7 +7421,6 @@
 	)
 	(label "MD_START"
 		(at 19.05 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7447,7 +7431,6 @@
 	)
 	(label "MD_A"
 		(at 19.05 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7458,7 +7441,6 @@
 	)
 	(label "C64_DOWN"
 		(at 195.58 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7469,7 +7451,6 @@
 	)
 	(label "MD_B"
 		(at 233.68 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7480,7 +7461,6 @@
 	)
 	(label "CLK"
 		(at 35.56 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7491,7 +7471,6 @@
 	)
 	(label "MD_C"
 		(at 72.39 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7502,7 +7481,6 @@
 	)
 	(label "~{CLK}"
 		(at 199.39 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7513,7 +7491,6 @@
 	)
 	(label "MD_A"
 		(at 180.34 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7524,7 +7501,6 @@
 	)
 	(label "C64_UP"
 		(at 128.27 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7535,7 +7511,6 @@
 	)
 	(label "MD_LEFT"
 		(at 95.25 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7546,7 +7521,6 @@
 	)
 	(label "~{CLK}"
 		(at 120.65 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7557,7 +7531,6 @@
 	)
 	(label "MD_B{slash}~{A}"
 		(at 30.48 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7568,7 +7541,6 @@
 	)
 	(label "MD_UP"
 		(at 72.39 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7579,7 +7551,6 @@
 	)
 	(label "MD_DOWN"
 		(at 248.92 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7590,7 +7561,6 @@
 	)
 	(label "C64_C"
 		(at 128.27 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7601,7 +7571,6 @@
 	)
 	(label "C64_C"
 		(at 76.2 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7612,7 +7581,6 @@
 	)
 	(label "MD_RIGHT_M"
 		(at 248.92 26.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7623,7 +7591,6 @@
 	)
 	(label "MD_C"
 		(at 95.25 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7634,7 +7601,6 @@
 	)
 	(label "C64_C"
 		(at 15.24 30.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7645,7 +7611,6 @@
 	)
 	(label "MD_RIGHT"
 		(at 95.25 156.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7656,7 +7621,6 @@
 	)
 	(label "MD_UP"
 		(at 20.32 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7667,7 +7631,6 @@
 	)
 	(label "C64_UP"
 		(at 195.58 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7678,7 +7641,6 @@
 	)
 	(label "MD_B{slash}~{A}"
 		(at 248.92 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7689,7 +7651,6 @@
 	)
 	(label "MD_C"
 		(at 20.32 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7700,7 +7661,6 @@
 	)
 	(label "CLK"
 		(at 260.35 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7711,7 +7671,6 @@
 	)
 	(label "MD_A"
 		(at 72.39 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7722,7 +7681,6 @@
 	)
 	(label "C64_POTY"
 		(at 177.8 20.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7733,7 +7691,6 @@
 	)
 	(label "C64_FIRE"
 		(at 195.58 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7744,7 +7701,6 @@
 	)
 	(label "MD_RIGHT"
 		(at 233.68 25.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7755,7 +7711,6 @@
 	)
 	(label "MD_RIGHT_M"
 		(at 30.48 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7766,7 +7721,6 @@
 	)
 	(label "MD_LEFT"
 		(at 233.68 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7777,7 +7731,6 @@
 	)
 	(label "MD_UP"
 		(at 233.68 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7788,7 +7741,6 @@
 	)
 	(label "C64_POTX"
 		(at 87.63 63.5 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7799,7 +7751,6 @@
 	)
 	(label "MD_B{slash}~{A}"
 		(at 115.57 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7810,7 +7761,6 @@
 	)
 	(label "MD_LEFT_M"
 		(at 30.48 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7821,7 +7771,6 @@
 	)
 	(label "C64_POTX"
 		(at 177.8 22.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7832,7 +7781,6 @@
 	)
 	(label "C64_LEFT"
 		(at 195.58 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7860,7 +7808,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10nF"
 			(at 207.01 140.9636 0)
 			(effects
 				(font
@@ -9205,7 +9153,7 @@
 				)
 			)
 		)
-		(property "Value" "47K"
+		(property "Value" "10K"
 			(at 271.78 144.78 90)
 			(effects
 				(font
