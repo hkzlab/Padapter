@@ -5071,16 +5071,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 40.64) (xy 233.68 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "034cd1ee-be59-4e2e-8358-a52ca34d0447")
-	)
-	(wire
-		(pts
 			(xy 240.03 24.13) (xy 240.03 46.99)
 		)
 		(stroke
@@ -7111,6 +7101,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 40.64) (xy 195.58 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4db5929-7049-497a-af84-069853a19b92")
+	)
+	(wire
+		(pts
 			(xy 54.61 110.49) (xy 59.69 110.49)
 		)
 		(stroke
@@ -7728,16 +7728,6 @@
 			(justify right bottom)
 		)
 		(uuid "dc379b5c-4ad6-43a7-8062-5d325d4c634b")
-	)
-	(label "MD_UP"
-		(at 233.68 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e52f05c3-d246-4c8d-9e06-769f45666520")
 	)
 	(label "C64_POTX"
 		(at 87.63 63.5 90)
