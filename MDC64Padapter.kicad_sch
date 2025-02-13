@@ -8132,6 +8132,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C60133"
+			(at 209.55 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64624813-9782-4b0c-b08a-6ccfb26c9f0a")
 		)
@@ -8194,6 +8203,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 173.99 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 173.99 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8405,6 +8423,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C3239134"
+			(at 100.33 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "fb031cf5-e54d-472b-b182-e8b6e19c08d4")
 		)
@@ -8517,6 +8544,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C38141"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b069455-dcff-41fe-8a51-a38f809bc104")
 		)
@@ -8579,6 +8615,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 100.33 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 100.33 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8714,6 +8759,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 246.38 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C41431778"
 			(at 246.38 137.16 0)
 			(effects
 				(font
@@ -8880,6 +8934,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C475630"
+			(at 34.29 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0982bca6-4de8-4dca-a78e-e46353e5b439")
 		)
@@ -8945,6 +9008,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 104.14 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 104.14 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9149,6 +9221,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 170.18 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 170.18 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9428,6 +9509,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C4989112"
+			(at 143.51 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "b5c7d1e3-1bba-4c45-aa0c-57beb77c0a50")
 		)
@@ -9618,6 +9708,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C17414"
+			(at 73.66 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70f0241f-5b28-4f7e-b7ec-2cbe390e1c81")
 		)
@@ -9680,6 +9779,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 107.95 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 107.95 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9814,6 +9922,15 @@
 		)
 		(property "Description" ""
 			(at 271.78 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17414"
+			(at 271.78 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9957,6 +10074,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C19829641"
+			(at 227.33 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "a4039969-da60-4f2f-bfe7-2774af02784a")
 		)
@@ -10025,6 +10151,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 153.67 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
 			(at 153.67 110.49 0)
 			(effects
 				(font
@@ -10168,6 +10303,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C83528"
+			(at 173.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ed94dfa-958b-4195-a70b-bb9e7e39da49")
 		)
@@ -10227,6 +10371,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 31.75 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17520"
 			(at 31.75 25.4 0)
 			(effects
 				(font
@@ -10297,6 +10450,15 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology"
+			(at 246.38 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C840645"
 			(at 246.38 72.39 0)
 			(effects
 				(font
@@ -10461,6 +10623,15 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.it/ProductDetail/Texas-Instruments/SN74ACT373DBR?qs=LzFo6vGRJ4vFruYGxUMnqw%3D%3D"
+			(at 63.5 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C4989112"
 			(at 63.5 161.29 0)
 			(effects
 				(font
@@ -10659,6 +10830,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C38141"
+			(at 273.05 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d29faa61-9c66-4e8a-9616-f83e22877041")
 		)
@@ -10726,6 +10906,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C149504"
+			(at 40.64 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e5e95091-f6c0-46bb-b939-0d421b674bec")
 		)
@@ -10785,6 +10974,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 100.33 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17520"
 			(at 100.33 25.4 0)
 			(effects
 				(font
@@ -10860,6 +11058,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C149504"
+			(at 109.22 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "acb1a1f1-f741-42a9-9b6e-c22c5375d81d")
 		)
@@ -10922,6 +11129,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -11064,6 +11280,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C83528"
+			(at 181.61 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d31a46c-ea97-4a61-acf9-d066fe54d687")
 		)
@@ -11197,6 +11422,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C238944"
+			(at 36.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "7febf853-17e8-4c37-8fbe-3fb0cccf3c32")
 		)
@@ -11300,6 +11534,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C221660"
+			(at 64.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cdebecd4-b04d-4483-b400-0ce9fe675225")
 		)
@@ -11362,6 +11605,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 36.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C238944"
 			(at 36.83 74.93 0)
 			(effects
 				(font
@@ -11671,6 +11923,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C60133"
+			(at 227.33 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "461584d6-d26c-42e1-b18e-f63f07dc2bac")
 		)
@@ -11740,6 +12001,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C38141"
+			(at 273.05 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40317d0f-70f0-44fd-9ee5-18d12a8338ab")
 		)
@@ -11802,6 +12072,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
 			(at 176.53 110.49 0)
 			(effects
 				(font
@@ -12014,6 +12293,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C17414"
+			(at 276.86 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf79fc7a-822c-492b-bc59-9305defef018")
 		)
@@ -12214,6 +12502,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C238944"
+			(at 205.74 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "7febf853-17e8-4c37-8fbe-3fb0cccf3c34")
 		)
@@ -12384,6 +12681,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C238944"
+			(at 205.74 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "7febf853-17e8-4c37-8fbe-3fb0cccf3c35")
 		)
@@ -12490,6 +12796,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C238944"
+			(at 168.91 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "7febf853-17e8-4c37-8fbe-3fb0cccf3c36")
 		)
@@ -12586,6 +12901,15 @@
 		)
 		(property "Description" ""
 			(at 57.15 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17520"
+			(at 57.15 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12863,6 +13187,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C38141"
+			(at 165.1 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ee28fa8-639d-4980-8c6f-25a270ede587")
 		)
@@ -12931,6 +13264,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C83528"
+			(at 181.61 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8e36b22f-8494-4818-bc35-d3457e7b3f1a")
 		)
@@ -12991,6 +13333,15 @@
 		)
 		(property "Description" ""
 			(at 125.73 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C17520"
+			(at 125.73 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13133,6 +13484,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C83528"
+			(at 181.61 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d052994-a246-4ca6-8829-16eab4914c61")
 		)
@@ -13195,6 +13555,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 96.52 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C38141"
+			(at 96.52 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13492,6 +13861,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C840645"
+			(at 262.89 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "dfb69571-3858-45ad-9105-8da051550ee1")
 		)
@@ -13570,6 +13948,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 181.61 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C83528"
 			(at 181.61 30.48 0)
 			(effects
 				(font
@@ -13731,6 +14118,15 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, NPN Transistor, SOT-23"
+			(at 102.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C475630"
 			(at 102.87 38.1 0)
 			(effects
 				(font
