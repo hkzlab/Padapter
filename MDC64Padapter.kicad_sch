@@ -8183,7 +8183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C60133"
+		(property "LCSC PN" "C83170"
 			(at 209.55 139.7 0)
 			(effects
 				(font
@@ -11974,7 +11974,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" "C60133"
+		(property "LCSC PN" "C83170"
 			(at 227.33 137.16 90)
 			(effects
 				(font
