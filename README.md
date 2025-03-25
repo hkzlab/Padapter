@@ -17,7 +17,7 @@ All buttons on the gamepad are demultiplexed and usable by the computer, the ada
 
 ### Ordering the boards
 
-You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/TODO.html) and support me or download 
+You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/The_Padapter_6d3f13b7.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
 
 Fabrication files are available for both PCBWay and JLCPCB inside the "gerbers" directory. Mind you that I have not yet tested assembly
