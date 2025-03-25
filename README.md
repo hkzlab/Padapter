@@ -20,6 +20,9 @@ All buttons on the gamepad are demultiplexed and usable by the computer, the ada
 You can order the board for this project at [PCBWay](https://www.pcbway.com/project/shareproject/TODO.html) and support me or download 
 the gerbers and have them printed wherever you like!!!
 
+Fabrication files are available for both PCBWay and JLCPCB inside the "gerbers" directory. Mind you that I have not yet tested assembly
+of this board by either fab, as such you are on your own and you're invited to share your experience and improvements to these files.
+
 ## Features
 
 - Small and made with common components
